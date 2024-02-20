@@ -1,4 +1,2 @@
 # dataset
-for object detection
-
-image and BBox data 
+学習用に作成したデータセット
